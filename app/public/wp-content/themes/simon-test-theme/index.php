@@ -1,1 +1,1 @@
-This is our amazing custom theme.
+this message is sent by automatic deployment to live site - Simon.
