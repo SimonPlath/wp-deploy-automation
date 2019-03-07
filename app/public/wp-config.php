@@ -70,7 +70,7 @@ define('NONCE_SALT',       'j0XCFb^t3q>VACXD/k-R^:-g+K5?fGtS0/g6ag)l .+>-y oZ-V 
 $table_prefix = 'wp_';
 
 
-
+ define('COOKIE_DOMAIN', $_SERVER['HTTP_HOST'] );
 
 /* That's all, stop editing! Happy blogging. */
 
