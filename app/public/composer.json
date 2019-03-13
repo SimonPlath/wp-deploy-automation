@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.deliciousbrains.com"
+    }
+  ],
+  "require": {
+    "deliciousbrains-plugin/wp-migrate-db-pro": "^1.9"
+  }
+}
